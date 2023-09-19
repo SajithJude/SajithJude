@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @SajithJude
-- 👀 I’m interested in A.I,ML,DL, WebXr.
-- 🌱 I’m currently learning three.js, MLoPs &AWS
-- 💞️ I’m looking to collaborate on any open source projects that would provide value to Education and Healthcare.
-- 📫 How to reach me mail me through judesajith.aj@gmail.com / call me via +94763473027
+# 👋 Hi, I’m @SajithJude
+
+- Technical Lead at Flipick.
+- Passionate about technology and leadership.
+
+## Contact Me
+You can reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+
+## GitHub Stats
+![SajithJude's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithJude&count_private=true&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithJude&count_private=true&theme=radical)
+
+## Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SajithJude&theme=radical)
+
+
 
 <!---
 SajithJude/SajithJude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
