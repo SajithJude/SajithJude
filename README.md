@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @SajithJude
 
-- Technical Lead at Flipick.
+- A.I product Lead @ Qnetwork INC
 - Passionate about technology and leadership.
 
 ## Contact Me
-You can reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/jude-sajith/)
 
 ## GitHub Stats
 ![SajithJude's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithJude&count_private=true&show_icons=true&theme=radical)
